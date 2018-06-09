@@ -20,7 +20,7 @@ The Mapzen Turn-by-Turn API makes it easy to let navigation find its way into yo
 
   s.platform     = :ios, "9.0"
 
-  s.source       = { :git => "https://github.com/mapzen/on-the-road_ios.git", :tag => "v#{s.version}" }
+  s.source       = { :git => "https://github.com/Cipher099/on-the-road_ios.git", :tag => "v#{s.version}" }
 
   s.source_files  = "OTRRouting/*.{h,m,c}"
 
